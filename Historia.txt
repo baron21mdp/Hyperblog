@@ -5,3 +5,11 @@ Quiero ganar la cuarta.
 ahora nos volvimos a ilusionar. 
 
 ja ja ja
+
+Que creen que puede llegar a pasar?
+
+Bueno, hice un git checkout. Veremos que pasa.
+
+Estoy tratando de usar los comandos de borrar. Va mas o menos el tema
+
+y ahora ya no se
