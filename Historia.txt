@@ -12,6 +12,7 @@ Bueno, hice un git checkout. Veremos que pasa.
 
 Agregamos lo quinto
 
+y agregamos lo sexto
 
 
 
