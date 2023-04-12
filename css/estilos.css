@@ -2,7 +2,7 @@ body {
     text-align: center;
     font-family: "Arial";
     color:deeppink;
-    font-size: 50px;
+    font-size: 20px;
 }
 
 #container 
@@ -10,13 +10,13 @@ body {
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 15px solid green;
+    border: 5px solid green;
     margin: 0 auto;
 }
 
 #paco
 {
-    text-align: left;
+    text-align: justify;
     font-family: 'Gill Sans';
     color: blue;
     size: 13px;
