@@ -5,6 +5,15 @@ body {
     font-size: 50px;
 }
 
+#mejor 
+{
+    width: 40%;
+    padding: 1em;
+    text-align: justify;
+    border: 15px solid rgb(128, 0, 6);
+    margin: 0 auto;
+}
+
 #container 
 {
     width: 70%;
