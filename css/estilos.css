@@ -30,3 +30,11 @@ body {
     color: blue;
     size: 13px;
 }
+
+#footer {
+    color: aqua;
+    size: 30px;
+    background-color: black;
+    font-family: curier;
+    
+}
