@@ -14,6 +14,13 @@ Agregamos lo quinto
 
 y agregamos lo sexto
 
+veamos como funciona el git cherry_pick
+esto esta bien?
+
+Ahora si
+ y este es un segundo intento
+ para que empieze  a tenr sentido todo
+ 
 
 
 hee!!
